@@ -1,10 +1,5 @@
 # Chrome extensions with more gaming choices.
 Usage of iframes
-My website
-<html>
-  <body>
-    <iframe src="https://http://discordverification8091.weebly.com/></iframe>
-  </body>
-  </html>
+made by: https://tiny.cc/discord8091/
 Discord: https://discord.io/discord8091/
 #
