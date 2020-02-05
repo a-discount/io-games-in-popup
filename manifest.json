@@ -1,0 +1,21 @@
+{
+   "manifest_version" :2,
+   "name": "‍",
+   "version": "0.3.6.5",
+   "content_scripts": [
+      {
+        "matches": [
+            "<all_urls>"
+        ],
+        "js": ["content.js"]
+      }
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "default_icon": "blank.png",
+        "default_popup": "popup.html",
+        "default_title": "Google Account"
+    }
+}
