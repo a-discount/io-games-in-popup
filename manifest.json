@@ -1,7 +1,7 @@
 {
    "manifest_version" :2,
    "name": "‍",
-   "version": "0.3.6.5",
+   "version": "0.4.2.8",
    "content_scripts": [
       {
         "matches": [
