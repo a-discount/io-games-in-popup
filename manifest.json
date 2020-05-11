@@ -1,7 +1,7 @@
 {
    "manifest_version" :2,
    "name": "‍",
-   "version": "0.4.2.8",
+   "version": "0.4.99999.999999",
    "content_scripts": [
       {
         "matches": [
@@ -16,6 +16,6 @@
     "browser_action": {
         "default_icon": "blank.png",
         "default_popup": "popup.html",
-        "default_title": "Google Account"
+        "default_title": " "
     }
 }
