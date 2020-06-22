@@ -1,6 +1,6 @@
 # Chrome extensions with more gaming choices.
 `Usage of iframes`
-``Make sure to right click on the chrome extension and change the extension to ``**cannot read site data**
+``Make sure to right click on the chrome extension and change the extension to ``**WHEN YOU CLICK THE EXTENSION**
 Made by: https://tiny.cc/discord8091/
 Discord: https://discord.io/discord8091/
 #
