@@ -11,5 +11,7 @@ Discord: https://discord.io/discord8091/
 4. turn on developer mode in the top right hand corner
 5. Click on load unpacked
 6. Select the folder io-games-in-popup-master
-7. The icon is invisible. (lol, for secretive purposes)
+7. The extension should appear in the extensions bar.
+8. MAKE SURE TO CLICK ON THE 3 DOT ICON AND IT WILL SAY: "THIS CAN READ AND CHANGE SITE DATA"
+ - CHANGE THAT TO "WHEN YOU CLICK ON THE EXTENSION"
 #
